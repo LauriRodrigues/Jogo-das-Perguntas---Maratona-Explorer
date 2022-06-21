@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo Maratona Explorer" title="Maratona Explorer" src="./assets/readme/maratonaExplorer.png">
+  <img alt="Logo Maratona Explorer" title="Maratona Explorer" src="./readme/maratonaExplorer.png">
 </div>
 	
 <h4 align="center"> 
@@ -29,9 +29,9 @@
 
 <h2 align=left> 🎨 Layout </h2>
 
-<img alt="Layout do Projeto" title="Layout do Projeto" src="./assets/readme/Tela.png">
+<img alt="Layout do Projeto" title="Layout do Projeto" src="./readme/Tela.png">
 
 <br> <br>
 
 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6939655020208410624/"> <img alt="Logo Linkedin" title="Post Linkedin" src="./assets/readme/linkedin.png" width="1.8%">  Post Linkedin </a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6939655020208410624/"> <img alt="Logo Linkedin" title="Post Linkedin" src="./readme/linkedin.png" width="1.8%">  Post Linkedin </a>
